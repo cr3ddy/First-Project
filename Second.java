@@ -1,6 +1,6 @@
 public class Second {
 	String name;
-	public Second(string name) {
+	public Second(String name) {
 		this.name = name;
 	}
 }
