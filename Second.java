@@ -1,4 +1,6 @@
 public class Second {
-String name;
+	String name;
+	public Second(string name) {
+		this.name = name;
+	}
 }
-
